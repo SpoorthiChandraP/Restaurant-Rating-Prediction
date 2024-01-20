@@ -1,6 +1,13 @@
 # Restaurant-Rating-Prediction
 This is a project taken under the internship provided by Ineuron.ai.
 
+# Problem Statement:
+The main goal of this project is to perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset and build an appropriate Machine Learning Model that will help various Zomato Restaurants to predict their respective Ratings based on certain features.
+
+# Approach: 
+The classical machine learning tasks like Data Exploration, Data Cleaning, Feature Engineering, Model Building and Model Testing. 
+Trying out different machine learning algorithms that’s best fit for the above case.
+
 # WEB INTERFACE
 
 ![1](https://github.com/SpoorthiChandraP/Restaurant-Rating-Prediction/assets/147928148/1b549496-96a5-4b44-87a1-c7857f8404d1)
